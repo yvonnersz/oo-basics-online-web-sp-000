@@ -14,7 +14,6 @@ class shoe
 
   def cobble
     puts "The shoe has been repaired"
-    brand.shoe.condition("new")
   end
 
 end
