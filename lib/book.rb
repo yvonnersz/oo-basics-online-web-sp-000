@@ -7,4 +7,5 @@ class Book(title)
   end
 
   attr_accessor:title
+  
 end
