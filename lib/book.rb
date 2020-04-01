@@ -5,5 +5,4 @@ class Book(title)
     @title= title
   end
 
-
 end
